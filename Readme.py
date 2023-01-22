@@ -1,1 +1,1 @@
-Brunch 2
+Create new brunch
